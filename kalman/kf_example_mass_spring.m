@@ -4,6 +4,8 @@
 clear all
 close all
 
+% katieq
+
 % 
 m = 2;     % Measured states
 L = m + 2; % States + parms
